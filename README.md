@@ -1,1 +1,1 @@
-# website-for-club
+# website-for-club/ organisation
